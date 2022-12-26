@@ -18,7 +18,7 @@ public class HelloWorld {
 		
 		System.out.println(message);
 		System.out.println(stringAnswer + " " + isMoreThanOne);
-		
+		System.out.println("Тестирую GIT");
 		
 		
 	}
